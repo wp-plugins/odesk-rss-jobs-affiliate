@@ -6,7 +6,7 @@ Donate link: http://reygcalantaol.com/php-asp-programmer-donation
 Tags: odesk profile,odesk
 Requires at least: 3.0
 Tested up to: 3.2.1
-Stable tag: 0.1.0
+Stable tag: trunk
 
 This plugin display configuration page and widget to display list of odesk job listing via commision junction affiliate to earn commision once someone click the job link and got hired.
 
