@@ -3,7 +3,7 @@ Contributors: Rey Calantaol
 Plugin URL: http://reygcalantaol.com/odesk-rss-job-affiliate
 Plugin Demo: http://reygcalantaol.com/odesk-rss-job-affiliate-jobs
 Donate link: http://reygcalantaol.com/php-asp-programmer-donation
-Tags: odesk profile,odesk
+Tags: odesk rss,odesk affiliate, odesk, rss, affiliate
 Requires at least: 3.0
 Tested up to: 3.2.1
 Stable tag: trunk
