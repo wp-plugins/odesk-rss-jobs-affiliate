@@ -30,7 +30,7 @@ http://reygcalantaol.com/odesk-rss-job-affiliate-jobs
 
 1. Extract zip in the /wp-content/plugins/ directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. Configure Settings -> Odesk Profile Fetcher
+3. Configure Settings -> Odesk RSS Jobs Affiliate
 4. Lastly, use this shortcode in post or page "[odesk_rss_affiliate]".
 
 == Frequently Asked Questions ==
