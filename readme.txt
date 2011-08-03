@@ -1,0 +1,56 @@
+=== Odesk RSS Jobs Affiliate ===
+Contributors: Rey Calantaol
+Plugin URL: http://reygcalantaol.com/odesk-rss-job-affiliate
+Plugin Demo: http://reygcalantaol.com/odesk-rss-job-affiliate-jobs
+Donate link: http://reygcalantaol.com/php-asp-programmer-donation
+Tags: odesk profile,odesk
+Requires at least: 3.0
+Tested up to: 3.2.1
+Stable tag: 0.1.0
+
+This plugin display configuration page and widget to display list of odesk job listing via commision junction affiliate to earn commision once someone click the job link and got hired.
+
+
+== Description ==
+
+This plugin requires Commision Junction Account (Publisher) to earn commision when someone got hired through your listing link.<br />If you do not have one, please signup http://www.cj.com/get-started-publisher?x.
+	
+
+Please follow the link below to view the live action of the plugin:
+http://reygcalantaol.com/odesk-rss-job-affiliate-jobs
+
+
+== Features ==
+
+1. Widget for job listing at the sidebar
+2. Easy page setting.
+3. Easy usage for pages or post, just post this shortcode in post or page "[odesk_rss_affiliate]".
+
+== Installation ==
+
+1. Extract zip in the /wp-content/plugins/ directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
+3. Configure Settings -> Odesk Profile Fetcher
+4. Lastly, use this shortcode in post or page "[odesk_rss_affiliate]".
+
+== Frequently Asked Questions ==
+
+Where can I find my conjunction Account ID?
+
+Login to your account and in user account page, you can see your comission junction account ID beside your name located at the upper left corner.
+
+Why should I need to proive my commission junction account ID?
+
+By providing your account ID, the commission generated when the visitor apply the job listed in your website will be credited in your account.
+
+
+== Screenshots ==
+
+1. Plugin in action
+2. Plugin settings page
+3. Widget setting
+
+== Changelog ==
+
+= 0.1.0 =
+The first released version
