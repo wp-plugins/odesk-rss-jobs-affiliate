@@ -1,8 +1,8 @@
 === Odesk RSS Jobs Affiliate ===
 Contributors: Rey Calantaol
-Plugin URL: http://reygcalantaol.com/odesk-rss-job-affiliate
-Plugin Demo: http://reygcalantaol.com/odesk-rss-job-affiliate-jobs
-Donate link: http://reygcalantaol.com/php-asp-programmer-donation
+Plugin URL: http://www.reygcalantaol.com/odesk-rss-job-affiliate
+Plugin Demo: http://www.reygcalantaol.com/odesk-rss-job-affiliate-jobs.html
+Donate link: http://www.reybornwebservices.com/plugin-development-donation/
 Tags: odesk rss,odesk affiliate, odesk, rss, affiliate
 Requires at least: 3.0
 Tested up to: 3.2.1
@@ -16,8 +16,8 @@ This plugin display configuration page and widget to display list of odesk job l
 This plugin requires Commision Junction Account (Publisher) to earn commision when someone got hired through your listing link.<br />If you do not have one, please signup http://www.cj.com/get-started-publisher?x.
 	
 
-Please follow the link below to view the live action of the plugin:
-http://reygcalantaol.com/odesk-rss-job-affiliate-jobs
+Please follow the link below to view the live action of the plugin:<br />
+http://www.reygcalantaol.com/odesk-rss-job-affiliate-jobs.html
 
 
 == Features ==
@@ -51,6 +51,8 @@ By providing your account ID, the commission generated when the visitor apply th
 3. Widget setting
 
 == Changelog ==
+= 0.1.1 =
+Fixing invalid demo link
 
 = 0.1.0 =
 The first released version
